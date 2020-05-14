@@ -1,5 +1,5 @@
 # 3-tier
-Terraform is suitalbe for provisioning and created the template from scratch with the help of terraform documentation and other articles from medium. This is a basic 3-tier production grade infrasturcture I created with terraform. 
+Terraform is suitalbe for provisioning and created the template from scratch with the help of terraform documentation and other articles from medium. This is a basic 3-tier production grade infrasturcture I created with terraform as a part of practice. 
 Below are the steps and aws services to get created from the template.
 1. AWS VPC
 2. subnets (for web application, backend application and database tier). Two subnets have been alloted for each tier and one in each AZ.
